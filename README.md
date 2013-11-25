@@ -10,4 +10,4 @@ You will need UCS Music and Background image to run that. The game looks into uc
 You can get original files at Andamiro PIUGAME website: http://www.piugame.com/ucs/00_ucs_intro/ucs_intro2.html 
 
 Live Version: http://www.energylabs.com.br/simpleucs/
-
+Default Noteskin Images from Stepmania 5 CMD
